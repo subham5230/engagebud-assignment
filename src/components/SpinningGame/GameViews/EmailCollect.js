@@ -14,7 +14,7 @@ function EmailCollect({setGameView, setIsOpen}) {
         src={Spinner}
         alt="bg"
       />
-        <div className="md:w-[50%] h-full flex flex-col items-center justify-center ml-auto md:mr-[5rem] lg:ml-0 lg:mr-0">
+        <div className="pt-[5rem] md:pt-0 md:w-[50%] h-full flex flex-col items-center justify-center ml-auto md:mr-[5rem] lg:ml-0 lg:mr-0">
           <h1 className="text-black font-bold text-[2rem] text-left max-w-[23rem]">
             This is how EngageBud looks like in action!
           </h1>
